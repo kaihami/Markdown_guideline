@@ -9,11 +9,14 @@
 Creating pretty markdown
 ___
 ## Summary
-**[Comments](#comments)**<br>
-
-**[Headings](#comments)**<br>
-**[Lists](#comments)**<br>
-**[Comments](#comments)**<br>
+- **[Comments](#comments)**<br>
+- **[Headings](#headings)**<br>
+- **[Lists](#lists)**<br>
+  - **[Unordered lists](#unordered-lists)**<br>
+  - **[Ordered Lists](#ordered-lists)**<br>
+  - **[Nested Lists](#nested-lists)**<br>
+  - **[Task Lists](#task-lists)**<br>
+- **[Comments](#comments)**<br>
 
 __
 
