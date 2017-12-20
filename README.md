@@ -1,21 +1,23 @@
+[comment]: # Background change
+[comment]: # ```diff
+[comment]: # + this text is highlighted in green
+[comment]: # - this text is highlighted in red
+[comment]: # ```
+[comment]: # Trying to create a pretty md file style
 # Markdown guideline
 Creating pretty markdown
-
-## Comments
-To comment a markdown you can use
-
-[//]: # (This may be the most platform independent comment)
-
-[comment]: # (This is a comment, it will not be included)
-
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
-
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-```
-[comment]: # (This is a comment, it will not be included)
-[//]: # (This may be the most platform independent comment)
+___
+'## Comments'
+To comment a markdown file just use
 
 ```
+[comment]: # (**Text here**)
+[//]: # (**Text here**)
+```
+___
+'## Headings'
+
+```
+
+```
+
