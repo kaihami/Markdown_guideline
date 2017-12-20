@@ -12,6 +12,7 @@ To comment a markdown you can use
 + this text is highlighted in green
 - this text is highlighted in red
 ```
+<span style=“color:green;”> text goes here</span>
 
 ```
 [comment]: # (This is a comment, it will not be included)
