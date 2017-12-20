@@ -4,5 +4,7 @@ Creating pretty markdown
 ## Comments
 To comment a markdown you can use
 ```
-\[//]: <> (Comment here)
+[comment]: <> (This is a comment, it will not be included)
+[//]: <> (Comment here)
+
 ```
