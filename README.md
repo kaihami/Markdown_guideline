@@ -1,4 +1,4 @@
-[comment]: # Background change
+<!--[comment]: # Background change-->
 
 [comment]: # ```diff
 
@@ -8,8 +8,7 @@
 
 [comment]: # ```
 
-[comment]: # Trying to create a pretty md file style
-
+[comment]: # Trying to create a pretty md file style-->
 # Markdown guideline
 Creating pretty markdown
 ___
