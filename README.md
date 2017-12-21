@@ -10,6 +10,8 @@ Creating pretty markdown
 ___
 ## Summary
 - **[Comments](#comments)**<br>
+- **[Styling text](#styling-text)**<br>
+  - **[Bold](#bold)**<br>
 - **[Headings](#headings)**<br>
 - **[Lists](#lists)**<br>
   - **[Unordered lists](#unordered-lists)**<br>
@@ -24,14 +26,17 @@ __
 To comment a markdown file just use
 
 ```
-<!-- Comment here -->
+<!--  Comment here  -->
+<!--- Comment here --->
 ```
 ___
 
 ## Styling text
 
-Bold character
-` `
+### Bold
+`** Text **` or `__ Text __`
+
+**Text** or __Text__
 
 ## Headings
 Creating Heading sections 
