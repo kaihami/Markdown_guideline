@@ -12,6 +12,9 @@ ___
 - **[Comments](#comments)**<br>
 - **[Styling text](#styling-text)**<br>
   - **[Bold](#bold)**<br>
+  - **[Italic](#italic)**<br>
+  - **[Bold and Italic](#bold-and-italic)**<br>
+  - **[Strikethrough](#strikethrough)**<br>
 - **[Headings](#headings)**<br>
 - **[Lists](#lists)**<br>
   - **[Unordered lists](#unordered-lists)**<br>
@@ -19,6 +22,7 @@ ___
   - **[Nested Lists](#nested-lists)**<br>
   - **[Task Lists](#task-lists)**<br>
 - **[Comments](#comments)**<br>
+- **[Quotes](#quotes)**<br>
 
 __
 
@@ -37,6 +41,35 @@ ___
 `** Text **` or `__ Text __`
 
 **Text** or __Text__
+
+### Italic
+`* Text * or _ Text _`
+
+*Text* or _Text_
+
+### Bold and Italic
+```
+Just combine __ or ** (Bold) with _ or * (Italic)
+
+__Is this _important_ yes or no?__
+
+**Is this _important_ yes or _no?_**
+
+__Is this *important* yes or _no?___
+```
+
+__Is this _important_ yes or no?__
+
+**Is this _important_ yes or _no?_**
+
+__Is this *important* yes or _no?___
+
+### Strikethrough
+```
+To strikethrough a text
+~~ Wrong Text ~~
+```
+~~Wrong Text~~
 
 ## Headings
 Creating Heading sections 
@@ -109,6 +142,15 @@ Done tasks? Just add a 'x' between  brackets ([x])
 - [ ] Item 2
 - [ ] Item 3
 
+## Quotes
+
+```
+To quote a phrase just use '>'
+No quote
+> With quote
+```
+No quote
+> With quote
 
 
 
