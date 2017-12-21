@@ -1,14 +1,10 @@
 <!--[comment]: # Background change-->
-
-[comment]: # ```diff
-
-[comment]: # + this text is highlighted in green
-
-[comment]: # - this text is highlighted in red
-
-[comment]: # ```
-
-[comment]: # Trying to create a pretty md file style-->
+<!--[comment]: # ```diff-->
+<!--[comment]: # + this text is highlighted in green-->
+<!--[comment]: # - this text is highlighted in red-->
+<!--[comment]: # ```-->
+<!--[comment]: # Trying to create a pretty md file style-->
+<!--- Coment --->
 # Markdown guideline
 Creating pretty markdown
 ___
@@ -28,8 +24,7 @@ __
 To comment a markdown file just use
 
 ```
-[comment]: # (**Text here**)
-[//]: # (**Text here**)
+<!-- Comment here -->
 ```
 ___
 
